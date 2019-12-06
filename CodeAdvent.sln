@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAdvent", "Day1.TyrannyOfTheRocketEquation\Day1.TyrannyOfTheRocketEquation.csproj", "{F8E17D90-D4C6-4E31-BBCA-7A152BFD7C74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2.1202ProgramAlarm", "Day2.1202ProgramAlarm\Day2.1202ProgramAlarm.csproj", "{03D66148-D957-4560-B09B-C7DC48592D84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F8E17D90-D4C6-4E31-BBCA-7A152BFD7C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8E17D90-D4C6-4E31-BBCA-7A152BFD7C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8E17D90-D4C6-4E31-BBCA-7A152BFD7C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D66148-D957-4560-B09B-C7DC48592D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D66148-D957-4560-B09B-C7DC48592D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D66148-D957-4560-B09B-C7DC48592D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D66148-D957-4560-B09B-C7DC48592D84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
